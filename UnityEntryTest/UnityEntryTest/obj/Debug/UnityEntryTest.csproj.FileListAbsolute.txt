@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\bin\Debug\UnityEntryTest.exe.config
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\bin\Debug\UnityEntryTest.exe
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\bin\Debug\UnityEntryTest.pdb
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\obj\Debug\UnityEntryTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\obj\Debug\UnityEntryTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\obj\Debug\UnityEntryTest.exe
+C:\Users\Admin\source\repos\UnityEntryTest\UnityEntryTest\obj\Debug\UnityEntryTest.pdb
